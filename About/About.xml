@@ -2,12 +2,12 @@
 <ModMetaData>
 	<name>Micro Comms Console</name>
 	<author>Neronix17</author>
+	<packageId>Neronix17.CosmoRim.MicroCommsConsole</packageId>
+	<modIconPath IgnoreIfNoMatchingField="True">CosmoRim/ModIcon</modIconPath>
+	<url>https://www.patreon.com/neronix17</url>
 	<supportedVersions>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
-	<packageId>Neronix17.CosmoRim.MicroCommsConsole</packageId>
 	<description>Standalone version of the 1x1 comms console from CosmoRim.</description>
-	<incompatibleWith>
-		<li>Neronix17.CosmoRim.Core</li>
-	</incompatibleWith>
 </ModMetaData>
